@@ -32,7 +32,7 @@ To run the image captioning application and perform inference, follow these step
 
 ## Building the Frontend
 
-The frontend of the application is built using Streamlit, a Python library for creating web applications. The frontend code resides in `app.py` and includes the following components:
+The frontend of the application is built using Streamlit, a Python library for creating web applications. The frontend code resides in `main.py` and includes the following components:
 
 - Image upload functionality to select and display the input image.
 - "Generate Caption" button to trigger the caption generation process.
